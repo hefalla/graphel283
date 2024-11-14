@@ -6,10 +6,6 @@ Proyecto Graphel
 
 Este es un proyecto de maquetación web, usado con fines académicos en el proceso de formación de desarrolladores web.
 
-## Visuales
-
-Capturas de pantalla.
-
 ## Despliegue 📦
 
 Puedes ver el proyecto desplegado [aquí](https://developer.mozilla.org/es/docs/Web/HTML)
